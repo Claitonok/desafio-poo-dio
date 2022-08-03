@@ -40,7 +40,7 @@ public class Main {
         System.out.println("Conteudos Inscritos Claiton:" + devClaiton.getConteudosinscritos());
         devClaiton.progredir();
         devClaiton.progredir();
-        System.out.println("-");
+        System.out.println("--");
         System.out.println("Conteudos Inscritos Claiton:" + devClaiton.getConteudosinscritos());
         System.out.println("Conteudos concluidos Claiton:" + devClaiton.getConteudosConcluidos());
         System.out.printf("XP:" + devClaiton.calcularTotalXp());
